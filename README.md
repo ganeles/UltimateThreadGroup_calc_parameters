@@ -11,8 +11,10 @@ It is not always easy to figure out how to calculate the parameters for the Ulti
 This is clearly shown in the Excel file attached here.
 Details about working with UTG (and with this file) are available in the video at the links:
 
-##Links:  
-[UTG Plugin](https://github.com/ganeles/JmeterSmartScenario)
+##Links:   
+[This file on Google Sheets](https://docs.google.com/spreadsheets/d/1MIxojBNb4f6k1V5n4-CLhWR0bCDGYsCPv4uG93BiKFU/edit?usp=drive_link)
+
+[Ultimate Thread Group Plugin for JMeter](https://jmeter-plugins.org/wiki/UltimateThreadGroup/)
 
 Video:  
 [Youtube](https://www.youtube.com/watch?v=TnO6sWly1oY&list=PLQznpGUZVuqKaHtN3Iz0iUtrrni4LuF4O&index=17&ab_channel=OTUSIT%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)  
