@@ -12,7 +12,7 @@ This is clearly shown in the Excel file attached here.
 Details about working with UTG (and with this file) are available in the video at the links:
 
 ##Links:   
-[This file on Google Sheets](https://docs.google.com/spreadsheets/d/1MIxojBNb4f6k1V5n4-CLhWR0bCDGYsCPv4uG93BiKFU/edit?usp=drive_link)
+[This file on Google Sheets online](https://docs.google.com/spreadsheets/d/1MIxojBNb4f6k1V5n4-CLhWR0bCDGYsCPv4uG93BiKFU/edit?usp=drive_link)
 You can also download it from this repository in Microsoft Excel format
 
 [Ultimate Thread Group Plugin for JMeter](https://jmeter-plugins.org/wiki/UltimateThreadGroup/)
