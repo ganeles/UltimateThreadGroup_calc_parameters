@@ -11,12 +11,9 @@ It is not always easy to figure out how to calculate the parameters for the Ulti
 This is clearly shown in the Excel file attached here.
 Details about working with UTG (and with this file) are available in the video at the links:
 
-##Links:
-Video:   
-
-https://www.youtube.com/watch?v=TnO6sWly1oY&list=PLQznpGUZVuqKaHtN3Iz0iUtrrni4LuF4O&index=17&ab_channel=OTUSIT%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5
-[Youtube](https://www.youtube.com/watch?v=TnO6sWly1oY&list=PLQznpGUZVuqKaHtN3Iz0iUtrrni4LuF4O&index=17&ab_channel=OTUSIT%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-
-[VK](https://vkvideo.ru/playlist/-145052891_124/video-145052891_456247797)
-
+##Links:  
 [UTG Plugin](https://github.com/ganeles/JmeterSmartScenario)
+
+Video:  
+[Youtube](https://www.youtube.com/watch?v=TnO6sWly1oY&list=PLQznpGUZVuqKaHtN3Iz0iUtrrni4LuF4O&index=17&ab_channel=OTUSIT%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)  
+[VK](https://vkvideo.ru/playlist/-145052891_124/video-145052891_456247797)  
